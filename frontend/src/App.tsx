@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-        <TodoOverview todos={todos}/>
+        <TodoOverview onFetchTodos={fetchData} todos={todos}/>
     </>
   )
 }
