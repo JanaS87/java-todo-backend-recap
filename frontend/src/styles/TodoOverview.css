@@ -1,0 +1,10 @@
+.todo-overview {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.column {
+    border: 1px solid #ccc;
+    padding: 10px;
+}

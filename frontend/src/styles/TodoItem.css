@@ -1,0 +1,11 @@
+.todo-item {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.todo-item p {
+    margin-bottom: 0;
+}
